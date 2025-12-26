@@ -55,4 +55,5 @@ Practice queries and database fundamentals
 
 ---
 
-📌 *This GitHub profile showcases my learning path and research-oriented projects.*
+📌 I am actively preparing for PhD positions and interested in research-oriented opportunities.
+
