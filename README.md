@@ -51,7 +51,7 @@ Practice queries and database fundamentals
 
 ## 🔗 Connect with Me
 - **GitHub:** https://github.com/yasaman2000  
-- **LinkedIn:** (add your LinkedIn profile link here)
+- **LinkedIn:** (www.linkedin.com/in/yasaman-chorom-b72b76258)
 
 ---
 
